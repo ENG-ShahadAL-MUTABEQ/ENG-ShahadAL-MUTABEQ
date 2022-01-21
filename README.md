@@ -4,7 +4,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- 📫  **i.shahad997@gmail.com**
+📩 --- i.shahad997@gmail.com
 <p align="left">
 </p>
 
